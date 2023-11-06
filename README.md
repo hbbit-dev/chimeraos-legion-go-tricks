@@ -7,25 +7,37 @@ Some of the things you find in this guide may be unofficial changes to original 
 
 ### What Works?
 At the moment, the following functions work just fine
+
 -Screen orientation (fixed in latest ChimeraOS unstable branch)
+
 -Wifi and Bluetooth
+
 -Sound
+
 -FPS/Mouse mode
+
 -TDP
 
 ### What Doesn't Work
 These functions are not working at all out of the box (items marked with '^' have workarounds)
+
 -Steam/QAM Buttons^
+
 -Rear extra buttons
+
 -Gyro
 
 ### How do I install ChimeraOS?
 The process is pretty simple as most of the workarounds required to actually use the device, like screen orientation, were added to the ChimeraOS Unstable branch shortly after the device became available to the public.
 
 -Burn ChimeraOS to a flash drive using Etcher
+
 -Plug USB into Legion Go and enter BIOS
+
 -Disable SecureBoot
+
 -Boot into install USB and proceed with its instructions, ***just be sure to check the box to install the 'unstable' branch***
+
 -Apply workarounds/improvements as you wish
 
 ### Guides

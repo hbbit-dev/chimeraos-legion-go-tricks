@@ -16,8 +16,6 @@ At the moment, the following functions work just fine
 
 -FPS/Mouse mode
 
--TDP
-
 ### What Doesn't Work
 These functions are not working at all out of the box (items marked with '^' have workarounds)
 

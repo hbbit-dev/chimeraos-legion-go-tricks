@@ -33,10 +33,11 @@ The process is pretty simple as most of the workarounds required to actually use
 ### [Where to find ChimeraOS for your Legion Go](https://chimeraos.org/download/)
 Please see the installation section of the ChimeraOS website, just remember to install the unstable branch as mentioned earlier in this guide,
 
-### [How to install Handycon - Controller Workaround w/ Steam/QAM](https://chimeraos.org/download/)
+### [How to install Handycon - Controller Workaround w/ Steam/QAM](https://github.com/bactaholic/chimeraos-legion-go-tricks/blob/main/guides/controller_workaround_handycon.md)
 Handycon has been updated to support the Legion Go and brings controller functionality in addition to Steam/QAM menus using the Legion Buttons
 
-### [How to remap Steam/QAM Buttons to Scrollwheel (OLD)](https://chimeraos.org/download/)
+### [How to remap Steam/QAM Buttons to Scrollwheel (OLD)](https://github.com/bactaholic/chimeraos-legion-go-tricks/blob/main/guides/controller_workaround_input_mapper.md)
 If for whatever reason other guides to guide the Steam/QAM Buttons working don't work for you, you can use this workaround. Please note, this is not a permanent solution, as the guide explains.
 
-### [Using EasyEffects to Improve Speaker Audio Quality](https://chimeraos.org/download/)
+### [Using EasyEffects to Improve Speaker Audio Quality](https://github.com/bactaholic/chimeraos-legion-go-tricks/tree/main)
+WIP!! AWAITING GUIDE

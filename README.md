@@ -25,6 +25,8 @@ These functions are not working at all out of the box (items marked with '^' hav
 
 -Gyro
 
+-TDP
+
 ### How do I install ChimeraOS?
 The process is pretty simple as most of the workarounds required to actually use the device, like screen orientation, were added to the ChimeraOS Unstable branch shortly after the device became available to the public.
 

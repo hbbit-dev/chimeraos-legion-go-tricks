@@ -38,13 +38,22 @@ The process is pretty simple as most of the workarounds required to actually use
 
 -Apply workarounds/improvements as you wish
 
+### Disclaimer: 
+If for whatever reason you accidentally install ChimeraOS without selecting the unstable branch, fear not. You can simply enter desktop mode, open a console, and type in the following...
+
+```sudo frzr-deploy chimeraos/chimeraos:unstable```
+
+followed by
+
+```sudo systemctl reboot```
+
 ### Guides
 
 ### [Where to find ChimeraOS for your Legion Go](https://chimeraos.org/download/)
-Please see the installation section of the ChimeraOS website, just remember to install the unstable branch as mentioned earlier in this guide,
+Please see the installation section of the ChimeraOS website, just remember to install the unstable branch as mentioned earlier in this guide.
 
-### [How to install Handycon - Controller Workaround w/ Steam/QAM](https://github.com/bactaholic/chimeraos-legion-go-tricks/blob/main/guides/controller_workaround_handycon.md)
-Handycon has been updated to support the Legion Go and brings controller functionality in addition to Steam/QAM menus using the Legion Buttons
+### [How to install Handycon - Controller Workaround w/ Steam/QAM (OLD)](https://github.com/bactaholic/chimeraos-legion-go-tricks/blob/main/guides/controller_workaround_handycon.md)
+THIS SHOULD ALREADY COME PREINSTALLED WITH CHIMERAOS IF YOU INSTALLED THE UNSTABLE BRANCH. Handycon has been updated to support the Legion Go and brings controller functionality in addition to Steam/QAM menus using the Legion Buttons and how to change combos.
 
 ### [How to remap Steam/QAM Buttons to Scrollwheel (OLD)](https://github.com/bactaholic/chimeraos-legion-go-tricks/blob/main/guides/controller_workaround_input_mapper.md)
 If for whatever reason other guides to guide the Steam/QAM Buttons working don't work for you, you can use this workaround. Please note, this is not a permanent solution, as the guide explains.

@@ -21,11 +21,11 @@ These functions are not working at all out of the box (items marked with '^' hav
 
 -Steam/QAM Buttons^
 
--Rear extra buttons
+-Rear extra buttons (any assignments you make in windows will persist to ChimeraOS, they just cannot be changed without re-entering Windows)
 
--Gyro
+-Gyro (gyro is recognized out-of-the-box but drivers still need to be made for ChimeraOS which interpret those gyro movements into controls)
 
--TDP
+-TDP (This is currently being worked on)
 
 ### How do I install ChimeraOS?
 The process is pretty simple as most of the workarounds required to actually use the device, like screen orientation, were added to the ChimeraOS Unstable branch shortly after the device became available to the public.
